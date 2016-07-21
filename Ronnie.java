@@ -7,7 +7,7 @@ public class Ronnie {
 
 		System.out.println("Placa com 4 números e 3 letras");
 		numeros = 9*9*9*9;
-
+		letras = 26*26*26;
 
 	}
 
