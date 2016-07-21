@@ -10,6 +10,7 @@ public class Ronnie {
 		letras = 26*26*26;
 		int possibilidades = numeros * letras;
 		System.out.println("Possibilidades = "+possibilidades+" possibilidades de placa");
+		System.out.println("Oi");
 
 	}
 
